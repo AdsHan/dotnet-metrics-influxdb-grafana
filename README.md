@@ -1,5 +1,5 @@
 # donet-metrics-influxdb-grafana
-Demonstração de como podemos gravar as métricas da aplicação no InfluxDB para posteriormente serem consumidos pelo Grafana. 	  
+Demonstração de como podemos gravar as métricas da aplicação no InfluxDB para posterior exibição no Grafana. 	  
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
