@@ -1,4 +1,4 @@
-# donet-metrics-influxdb-grafana
+# dotnet-metrics-influxdb-grafana
 Demonstração de como podemos gravar as métricas da aplicação no InfluxDB para posterior exibição no Grafana. 	  
 
 # Como executar:
