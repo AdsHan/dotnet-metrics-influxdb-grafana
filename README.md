@@ -10,4 +10,4 @@ Demonstração de como podemos gravar as métricas da aplicação no InfluxDB pa
 - Conecte o Grafana (http://localhost:3000/) no InfluxDB.
 
 # Sobre
-Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
+Este projeto foi desenvolvido por Anderson Hansen.
